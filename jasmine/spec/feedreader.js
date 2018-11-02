@@ -94,8 +94,8 @@ $(function() {
             loadFeed(0, done);
             });
 
-        it('has single entry',function(done){
-          expect$('.feed .entry').toBeGreaterThan(0);
+        it('has single entry', function(done){
+          expect('.feed .entry').not.toBe(0);
           done();
         });
 
