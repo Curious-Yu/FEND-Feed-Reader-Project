@@ -1,6 +1,12 @@
-# Project Overview
+# FEND Project 4 Overview
 
-In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
+In this project students are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where the student comes in.
+
+# Author
+
+Udacity - initial work - [frontend-nanodegree-feedreader](https://github.com/udacity/frontend-nanodegree-feedreader)
+
+Wen Yu - completing the game - [FEND-Feed-Reader-Project](https://github.com/WYCodeBook/FEND-Feed-Reader-Project)
 
 
 ## Why this Project?
@@ -12,7 +18,7 @@ Whether you work in an organization that uses test-driven development or in an o
 
 ## What will I learn?
 
-You will learn how to use Jasmine to write a number of tests against a pre-existing application. These will test the underlying business logic of the application as well as the event handling and DOM manipulation.
+Student will learn how to use Jasmine to write a number of tests against a pre-existing application. These will test the underlying business logic of the application as well as the event handling and DOM manipulation.
 
 
 ## How will this help my career?
@@ -44,5 +50,28 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 17. No test should be dependent on the results of another.
 18. Callbacks should be used to ensure that feeds are loaded before they are tested.
 19. Implement error handling for undefined variables and out-of-bound array access.
-20. When complete - all of your tests should pass. 
+20. When complete - all of your tests should pass.
 21. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
+
+# Dependencies
+
+The application uses [Jasmine 2.1.2](https://jasmine.github.io/2.1/introduction) to complete the tests.
+
+# How to clone the project
+
+  1. On GitHub, navigate to the main page of the repository.
+  2. Under the repository name, click Clone or download.
+  3. In the Clone with HTTPs section, click  to copy the clone URL for the repository.
+  4. Open Git Bash.
+  5. Change the current working directory to the location where you want the cloned directory to be made.
+  6. Type git clone, and then paste the URL you copied in Step 2.
+  7. Press Enter. Your local clone will be created.
+
+# How to clone to GitHub DeskTop
+
+  1. On GitHub, navigate to the main page of the repository.
+  2. Under your repository name, click  to clone your repository in Desktop. Follow the prompts in GitHub Desktop to complete the clone.
+
+# How to contribute
+
+The files in this repository are created for the FEND course. Since this project will be reviewed and graded in order to complete the course; therefore, pull requests will not be merged into the project. Please clone the project if you want to share the fun!
