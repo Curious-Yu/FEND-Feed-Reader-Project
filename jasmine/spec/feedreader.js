@@ -95,7 +95,7 @@ $(function() {
             });
 
         it('has single entry', function(done){
-          expect('.feed .entry').not.toBe(0);
+          expect($('.feed .entry').length).toBeGreaterThan(0);
           done();
         });
 

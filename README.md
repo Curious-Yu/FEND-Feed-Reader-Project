@@ -8,6 +8,11 @@ Udacity - initial work - [frontend-nanodegree-feedreader](https://github.com/uda
 
 Wen Yu - completing the game - [FEND-Feed-Reader-Project](https://github.com/WYCodeBook/FEND-Feed-Reader-Project)
 
+# How to run this project
+
+1. Simply clone the repo to your local system
+2. Open index.html and see the specs at the bottom of the page
+3. There are total of 7 tests. Fix all tests until you see 0 failures
 
 ## Why this Project?
 
