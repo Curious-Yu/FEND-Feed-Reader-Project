@@ -6,7 +6,7 @@ In this project students are given a web-based application that reads RSS feeds.
 
 Udacity - initial work - [frontend-nanodegree-feedreader](https://github.com/udacity/frontend-nanodegree-feedreader)
 
-Wen Yu - completing the game - [FEND-Feed-Reader-Project](https://github.com/WYCodeBook/FEND-Feed-Reader-Project)
+Wen Yu - completing the game - [FEND-Feed-Reader-Project](https://curious-yu.github.io/FEND-Feed-Reader-Project/)
 
 # How to run this project
 
